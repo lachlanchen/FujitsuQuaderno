@@ -1,0 +1,15 @@
+# Large local dumps and downloaded firmware
+*.pkg
+*.img
+*.bin
+*.dump
+*.raw
+*.zip
+*.tar
+*.tar.gz
+*.7z
+firmware/
+dumps/
+tmp/
+private/
+external/
